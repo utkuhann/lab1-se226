@@ -31,3 +31,47 @@ print('Last Score: ',(lastScore))"""
       )"""
 
 
+////////////////////////////// c++/////////////////////////////////
+/*string name;
+    int id;
+    cout << "What is your name? ";
+    cin >> name;
+    cout << "Hello "+ name << endl;
+    cout << "What is your student ID? ";
+    cin >> id;
+    cout << "Your ID is "<< id<< endl;*/
+
+    /*int var1;
+    int var2;
+    cout << "Enter 2 int ";
+    cin >> var1 >> var2;
+    cout << var1+var2 << endl;
+    cout << var1-var2 << endl;
+    cout << var1*var2 << endl;*/
+
+    /*string studentName;
+    int labGrade;
+    int midtermGrade;
+    int finalGrade;
+    double lastScore;
+    cout << "What is your name? ";
+    cin >> studentName;
+    cout << "Enter lab ";
+    cin >> labGrade;
+    cout << "Enter midterm ";
+    cin >> midtermGrade;
+    cout << "Enter final ";
+    cin >> finalGrade;
+    lastScore = (labGrade*25/100) + (midtermGrade*35/100) + (finalGrade*40/100);
+    cout << "name: " +studentName << endl
+         << "lab: " +labGrade << endl
+         << "midterm: " +midtermGrade<< endl
+         << "final: " +finalGrade << endl
+         << "last score: " << lastScore << endl;*/
+
+    /*cout << "*" << endl
+         << "**"  << endl
+         << "***" << endl
+         << "**" << endl
+         << "*" << endl;*/
+         
